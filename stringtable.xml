@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="Tactical Battlefield">
+<Package name="Missions">
+
+<Container name="TB_Frigid_Castle">
+
+	<Key ID="STR_TB_missionTitle_TB_Frigid_Castle">
+		<Original>Frigid Castle</Original>
+		<English>Frigid Castle</English>
+		<German>Frigid Castle</German>
+		<Italian>Frigid Castle</Italian>
+		<Spanish>Frigid Castle</Spanish>
+		<French>Frigid Castle</French>
+		<Czech>Frigid Castle</Czech>
+		<Russian>Frigid Castle</Russian>
+		<Polish>Frigid Castle</Polish>
+		<Hungarian>Frigid Castle</Hungarian>
+	</Key>
+
+	<Key ID="STR_TB_briefingName_TB_Frigid_Castle">
+		<Original>TacBF A&amp;S[T-10]: Frigid Castle</Original>
+		<English>TacBF A&amp;S[T-10]: Frigid Castle</English>
+		<German>TacBF A&amp;S[T-10]: Frigid Castle</German>
+		<Italian>TacBF A&amp;S[T-10]: Frigid Castle</Italian>
+		<Spanish>TacBF A&amp;S[T-10]: Frigid Castle</Spanish>
+		<French>TacBF A&amp;S[T-10]: Frigid Castle</French>
+		<Czech>TacBF A&amp;S[T-10]: Frigid Castle</Czech>
+		<Russian>TacBF A&amp;S[T-10]: Frigid Castle</Russian>
+		<Polish>TacBF A&amp;S[T-10]: Frigid Castle</Polish>
+		<Hungarian>TacBF A&amp;S[T-10]: Frigid Castle</Hungarian>
+	</Key>
+
+</Container>
+
+</Package>
+</Project>
